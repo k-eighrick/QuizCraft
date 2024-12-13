@@ -1,0 +1,14 @@
+C:\Users\Eric\source\repos\lastna\lastna\bin\Debug\net6.0\lastna.exe
+C:\Users\Eric\source\repos\lastna\lastna\bin\Debug\net6.0\lastna.deps.json
+C:\Users\Eric\source\repos\lastna\lastna\bin\Debug\net6.0\lastna.runtimeconfig.json
+C:\Users\Eric\source\repos\lastna\lastna\bin\Debug\net6.0\lastna.dll
+C:\Users\Eric\source\repos\lastna\lastna\bin\Debug\net6.0\lastna.pdb
+C:\Users\Eric\source\repos\lastna\lastna\obj\Debug\net6.0\lastna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\source\repos\lastna\lastna\obj\Debug\net6.0\lastna.AssemblyInfoInputs.cache
+C:\Users\Eric\source\repos\lastna\lastna\obj\Debug\net6.0\lastna.AssemblyInfo.cs
+C:\Users\Eric\source\repos\lastna\lastna\obj\Debug\net6.0\lastna.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\lastna\lastna\obj\Debug\net6.0\lastna.dll
+C:\Users\Eric\source\repos\lastna\lastna\obj\Debug\net6.0\refint\lastna.dll
+C:\Users\Eric\source\repos\lastna\lastna\obj\Debug\net6.0\lastna.pdb
+C:\Users\Eric\source\repos\lastna\lastna\obj\Debug\net6.0\lastna.genruntimeconfig.cache
+C:\Users\Eric\source\repos\lastna\lastna\obj\Debug\net6.0\ref\lastna.dll
